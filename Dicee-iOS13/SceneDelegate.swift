@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Test
+//  MyDice-apps-iOS13
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Rasyid Respati Wiriaatmaja on 19/10/19.
+//  Copyright © 2019 rasyidrw. All rights reserved.
 //
 
 import UIKit
